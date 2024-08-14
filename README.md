@@ -13,7 +13,7 @@ I have a strong foundation in computer science and a deep interest in software d
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages**: Java, C++, Python
+- **Programming Languages**: Java, C++
 - **Web Development**: HTML, CSS, JavaScript, React, Node.js, Express.js
 - **Database**: MySQL, MongoDB
 - **Other Tools**: Git, GitHub, VS Code, Power BI
