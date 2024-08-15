@@ -45,7 +45,7 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/shivam03
 ## 💼 Work Experience
 
 - **Technical Coordinator** at The Social Souls
-- **Project Manager** at a job recruitment company
+- **Technical Coordinator** at Griffin
 
 ## ⚡ Fun Fact
 
