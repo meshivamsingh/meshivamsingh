@@ -28,9 +28,6 @@ I have a strong foundation in computer science and a deep interest in software d
 - **Technologies**: Java
 - **Description**: Created a classic Snake game implementing fundamental game development principles.
 
-### 3. Hotel Management System
-- **Technologies**: Java, MySQL, JavaFX
-- **Description**: Developed a hotel management system with a MySQL backend and a JavaFX-based GUI.
 
 ## 🌱 What I'm Learning
 
