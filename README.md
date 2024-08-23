@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - **LinkedIn**: [Shivam Kumar Singh](https://www.linkedin.com/in/shivam0312/)
 - **GitHub**: [meshivamsingh](https://github.com/meshivamsingh)
 
-I have a strong foundation in computer science and a deep interest in software development, particularly in the areas of UI/UX design, web development, and object-oriented programming. I'm currently working on a MERN project for a bookstore and preparing for an interview with Samsung Electronics for a UI/UX Developer role.
+I have a strong foundation in computer science and a deep interest in software development, particularly in the areas of UI/UX design, web development, and object-oriented programming. I'm currently working on a MERN project for a food delivery app with admin panel and preparing for an interview with Samsung Electronics for a UI/UX Developer role.
 
 ## 🛠️ Technologies & Tools
 
