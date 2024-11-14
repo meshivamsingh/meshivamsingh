@@ -62,7 +62,7 @@ An agile task management tool to streamline collaboration and task tracking.
 
 ---
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=realsubodh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=meshivamsingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## 📜 Certifications
 - **Introduction to MongoDB for Students** - July 2024
 - **DSA Self-Paced (GeeksforGeeks)** - Aug 2023
